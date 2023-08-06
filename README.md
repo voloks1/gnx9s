@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @gnx9s
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Olá, sou @gnx9s
 
-<!---
-gnx9s/gnx9s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📝 Aprendendo HTML, CSS e JavaScript..
+- 📫 Contate-me em (13)99788-4494
+- 💻 Cursando Informática...
+
+[![gnx9s' GitHub stats](https://github-readme-stats.vercel.app/api?username=gnx9s)](https://github.com/gnx9s/github-readme-stats)
