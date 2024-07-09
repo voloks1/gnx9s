@@ -2,7 +2,7 @@
 
 - 📝 Conhecimento em HTML, CSS, JavaScript, PHP, C# e SQL.
 - 📫 Contate-me no email: gabrielrodrigues.rr12@gmail.com
-- 💻 Formação em Informática...
+- 💻 Formação em Informática
 
 [![gnx9s' GitHub stats](https://github-readme-stats.vercel.app/api?username=voloks1&show_icons=true&theme=dark)](https://github.com/voloks1/github-readme-stats)
 
