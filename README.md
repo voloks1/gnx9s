@@ -1,12 +1,12 @@
-👋 Olá, sou @gnx9s
+👋 Olá, sou @voloks1
 
-- 📝 Aprendendo HTML, CSS e JavaScript..
+- 📝 Conhecimento em HTML, CSS, JavaScript, PHP e SQL.
 - 📫 Contate-me no email: gabrielrodrigues.rr12@gmail.com
-- 💻 Cursando Informática...
+- 💻 Formação em Informática...
 
-[![gnx9s' GitHub stats](https://github-readme-stats.vercel.app/api?username=gnx9s&show_icons=true&theme=dark)](https://github.com/gnx9s/github-readme-stats)
+[![gnx9s' GitHub stats](https://github-readme-stats.vercel.app/api?username=voloks1&show_icons=true&theme=dark)](https://github.com/voloks1/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnx9s&theme=dark)](https://github.com/gnx9s/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voloks1&theme=dark)](https://github.com/voloks1/github-readme-stats)
 
 <div> 
   <a href="https://www.youtube.com/channel/UCutpKcMQlC6Gjm_A4YTGhVA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
