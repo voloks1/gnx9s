@@ -1,6 +1,6 @@
 👋 Olá, sou @voloks1
 
-- 📝 Conhecimento em HTML, CSS, JavaScript, PHP e SQL.
+- 📝 Conhecimento em HTML, CSS, JavaScript, PHP, C# e SQL.
 - 📫 Contate-me no email: gabrielrodrigues.rr12@gmail.com
 - 💻 Formação em Informática...
 
