@@ -2,8 +2,8 @@
 
 - 📝 <strong>Knowledge in HTML, CSS, JavaScript, PHP, C# and MySQL.</strong>
 - 👨‍💻 <strong>Learning React, React Native and Python.</strong>
-- 📫 <strong>Contact me in: gabrielrodrigues.rr12@gmail.com</strong>
 - 💻 <strong>IT Technician. (ETEC Adolpho Berezin, 2024)</strong>
+- 📫 <strong>Contact me in: gabrielrodrigues.rr12@gmail.com</strong>
 </br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voloks1&theme=dark)](https://github.com/voloks1/github-readme-stats)
