@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm @voloks1</h1>
 
 - 📝 <strong>Knowledge in HTML, CSS, JavaScript, PHP, C# and MySQL.</strong>
-- 👨‍💻 <strong>Learning React, React Native and Python.</strong>
+- 👨‍💻 <strong>Learning React, React Native and Typescript.</strong>
 - 💻 <strong>IT Technician. (ETEC Adolpho Berezin, 2024)</strong>
 - 📫 <strong>Contact me in: gabrielrodrigues.rr12@gmail.com</strong>
 </br>
@@ -11,6 +11,6 @@
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,cs,mysql&theme=dark" />
   </a>
 </p>
